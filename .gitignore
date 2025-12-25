@@ -1,0 +1,15 @@
+# Secrets
+*.key
+*.pem
+*.crt
+*.pfx
+*.p12
+.env
+
+# Logs / temp
+*.log
+*.swp
+*.tmp
+
+# OS files
+.DS_Store
